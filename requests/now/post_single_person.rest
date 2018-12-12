@@ -1,0 +1,7 @@
+POST https://osa3-ebphgsssac.now.sh/api/persons
+content-type: application/json
+
+{
+    "name": "Testi Jamppa",
+    "number": "123456"
+}

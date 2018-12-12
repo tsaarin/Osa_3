@@ -1,0 +1,1 @@
+DELETE https://osa3-ebphgsssac.now.sh/api/persons/23558
